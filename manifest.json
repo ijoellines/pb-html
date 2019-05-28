@@ -1,0 +1,38 @@
+{
+  "name": "Puisi Dan Kata Bijak",
+  "short_name": "Puisi Bijak",
+  "start_url": "https://www.puisibijak.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#FF1744",
+  "description": "Blog Kumpulan Aneka Ragam Puisi, Kata Motivasi, Kata Mutiara Dan Kata Kata Bijak.",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-ICQ_xQaohHc/XO1te6WVd1I/AAAAAAAAJfw/NMPXI3zThMIEGPXKFgpUPBz3G0jY7J47gCLcBGAs/s48/bijak-favicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-ICQ_xQaohHc/XO1te6WVd1I/AAAAAAAAJfw/NMPXI3zThMIEGPXKFgpUPBz3G0jY7J47gCLcBGAs/s72/bijak-favicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-ICQ_xQaohHc/XO1te6WVd1I/AAAAAAAAJfw/NMPXI3zThMIEGPXKFgpUPBz3G0jY7J47gCLcBGAs/s96/bijak-favicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-ICQ_xQaohHc/XO1te6WVd1I/AAAAAAAAJfw/NMPXI3zThMIEGPXKFgpUPBz3G0jY7J47gCLcBGAs/s144/bijak-favicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-ICQ_xQaohHc/XO1te6WVd1I/AAAAAAAAJfw/NMPXI3zThMIEGPXKFgpUPBz3G0jY7J47gCLcBGAs/s168/bijak-favicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-ICQ_xQaohHc/XO1te6WVd1I/AAAAAAAAJfw/NMPXI3zThMIEGPXKFgpUPBz3G0jY7J47gCLcBGAs/s192/bijak-favicon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-ICQ_xQaohHc/XO1te6WVd1I/AAAAAAAAJfw/NMPXI3zThMIEGPXKFgpUPBz3G0jY7J47gCLcBGAs/s512/bijak-favicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
